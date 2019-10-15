@@ -19,3 +19,21 @@ Note:
    1. 1 is typically treated as an ugly number.
     
    2. n does not exceed 1690.
+   
+## Problem2: (https://leetcode.com/problems/longest-palindromic-substring/)
+
+Given a string s, find the longest substring in s which is a palindrome.
+
+Example 1:
+
+Input: "bababd"
+
+Output: "babab"
+
+Note: "aba" is also a valid answer.
+
+Example 2:
+
+Input: "cbbd"
+
+Output: "bb"
